@@ -1,4 +1,4 @@
-# Pong-Game
+# 2 Person Pong-Game
 This is a 2 person pong game created on Turbo C++ (Borland C) in graphics mode.
 The rules are simple-
 1. Press 'w' to move up and 'z' to move down for player 1.
